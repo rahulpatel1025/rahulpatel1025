@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript, HTML, CSS, Python 
 - **Web Development:** React.js, Node.js
-- **Databases:** MySQL 
+- **Databases:** MySQL, MongoAtlas
 - **Tools & Platforms:** Git, GitHub, VS Code  
 
 ---
