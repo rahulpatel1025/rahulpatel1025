@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rahul Patel  
 
 🎓 Final Year Computer Science Student at **DY Patil University**  
-💻 Passionate **Web Developer** | **JavaScript Developer**  
+💻 **Web Developer** | **JavaScript Developer**  
 🚀 Exploring modern technologies to build scalable and user-friendly web applications  
 
 ---
