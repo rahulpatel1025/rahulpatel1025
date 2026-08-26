@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rahul Patel
 
-💻 **Full-Stack Developer | JavaScript Developer | Computer Science Student**
+💻 **Full-Stack Developer | App developer | Software Developer | Computer Science Engineer**
 
 I build **real-world web applications and software systems**, with a focus on turning ideas into reliable, scalable, and user-friendly products.
 
